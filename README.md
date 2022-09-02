@@ -4,3 +4,4 @@ More than 50 million people live with neurodegenerative diseases (NDD), includin
 The global effects of the diseases require international and multidisciplinary collaborations between neurologists, psychiatrists, and AI developers that result in Artificial Intelligence (AI)-driven solutions to measure, diagnose, and treat neurodegenerative diseases. This repository describes different methodologies used to develop AI-powered systems for dementia and links to various GitHub repositories, codes, and datasets related to this subject. 
 
 Different AI methods can be used to detect Dementia.
+One of the well-known AI approaches to detect dementia is to speech and language based systems. 
