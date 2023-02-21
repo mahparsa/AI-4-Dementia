@@ -6,3 +6,4 @@ The global effects of the diseases require international and multidisciplinary c
 Different AI methods can be used to detect Dementia.
 One of the well-known AI approaches to detect dementia is to speech and language based systems. 
 A useful paper is "AI-powered Language Assessment Tools for Dementia". 
+
