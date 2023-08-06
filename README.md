@@ -8,5 +8,9 @@ One of the well-known AI approaches to detect dementia is to speech and language
 A useful paper is "AI-powered Language Assessment Tools for Dementia". 
 
 Papers: 
-Mahboobeh Parsapoor, Muhammad Raisul Alam, Alex Mihailidis:
+
+[1]. Mahboobeh Parsapoor, Muhammad Raisul Alam, Alex Mihailidis:
 Performance of machine learning algorithms for dementia assessment: impacts of language tasks, recording media, and modalities. BMC Medical Informatics Decis. Mak. 23(1): 45 (2023)
+
+[2]. Mahboobeh Parsapoor, Hamed Ghodrati, Vincenzo Dentamaro, Christopher R. Madan, Ioulietta Lazarou, Spiros Nikolopoulos, Ioannis Kompatsiaris:
+AI and Non AI Assessments for Dementia. CoRR abs/2307.01210 (2023)
